@@ -1,0 +1,24 @@
+[
+  {
+    "version":"1.0.0-pre.2",
+    "prerelease":"true",
+    "asar_url":"https://onedrive.live.com/download?cid=3A523C68D4DFE3EE&resid=3a523c68d4dfe3ee%212038&authkey=AJBYgQbXNJwAXpE",
+    "assets": [
+      {
+        "name":"zetrox-launcher-win32-x64-installer.exe",
+        "download_url":"https://onedrive.live.com/download?cid=3A523C68D4DFE3EE&resid=3a523c68d4dfe3ee%212035&authkey=AONDTR7jg4OFHyo",
+        "size":37873737
+      },
+      {
+        "name":"zetrox-launcher-win32-x64-portable.hordozható",
+        "download_url":"https://onedrive.live.com/download?cid=3A523C68D4DFE3EE&resid=3a523c68d4dfe3ee%212036&authkey=AK9eLS1ViGluYQw",
+        "size":37873737
+      },
+      {
+        "name":"zetrox-launcher-linux-portable.tar.gz",
+        "download_url":"#",
+        "size":0
+      }
+    ]
+  }
+]

@@ -18,6 +18,11 @@
         "name":"zetrox-launcher-linux-portable.tar.gz",
         "download_url":"#",
         "size":0
+      },
+      {
+        "name":"zetrox-launcher-update.asar",
+        "download_url":"https://onedrive.live.com/download?cid=3A523C68D4DFE3EE&resid=3a523c68d4dfe3ee%212038&authkey=AJBYgQbXNJwAXpE",
+        "size":0
       }
     ]
   }
